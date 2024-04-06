@@ -49,10 +49,21 @@ The `User` model represents registered users.
 - `uploadUserPics`: Middleware for handling file uploads using Multer. Limits upload to images and allows a maximum of 3 files.
 - `resizeUserPhoto`: Middleware for resizing and formatting uploaded images using Sharp.
 
-## Contributing
+## Demo Images
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+Here are some demo images showcasing the functionality of the application:
 
-## License
+# Create a user by sending form data to the respective route.
 
-This project is licensed under the [MIT License](LICENSE).
+1. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/1ded1575-c84b-475a-bfab-618e286159a0)
+
+
+2. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/c0c7ba65-8d2e-4881-b4fb-20942be3a638)
+
+3. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/9159052c-16ce-4003-b428-6218abf4fcfc)
+   
+4. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/7ea63fb7-5dd8-4959-bbac-b0bd8e22c9b4)
+
+
+
+Feel free to explore more by trying out the application!
