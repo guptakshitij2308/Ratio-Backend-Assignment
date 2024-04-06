@@ -57,11 +57,16 @@ Here are some demo images showcasing the functionality of the application:
 
 1. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/1ded1575-c84b-475a-bfab-618e286159a0)
 
+# Check if user is created or not
 
 2. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/c0c7ba65-8d2e-4881-b4fb-20942be3a638)
 
+# User stored in atlas db
+
 3. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/9159052c-16ce-4003-b428-6218abf4fcfc)
    
+# The images uploaded stored on the server in public\img\users folder
+
 4. ![image](https://github.com/guptakshitij2308/Ratio-Backend-Assignment/assets/111740678/7ea63fb7-5dd8-4959-bbac-b0bd8e22c9b4)
 
 
